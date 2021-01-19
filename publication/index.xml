@@ -5,20 +5,12 @@
     <link>https://dcasbeer.github.io/publication/</link>
       <atom:link href="https://dcasbeer.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 David W. Casbeer</copyright><lastBuildDate>Mon, 18 Jan 2021 21:57:39 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 David W. Casbeer</copyright><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dcasbeer.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://dcasbeer.github.io/publication/</link>
     </image>
-    
-    <item>
-      <title>Multi-unmanned aerial vehicle multi acoustic source localization</title>
-      <link>https://dcasbeer.github.io/publication/manickam-multi-unmanned-nodate/</link>
-      <pubDate>Mon, 18 Jan 2021 21:57:39 +0000</pubDate>
-      <guid>https://dcasbeer.github.io/publication/manickam-multi-unmanned-nodate/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Persistent Intelligence, Surveillance, and Reconnaissance Using Multiple Autonomous Vehicles With Asynchronous Route Updates</title>
@@ -38,9 +30,9 @@
     
     <item>
       <title>Optimal Strategies for a Class of Multi-Player Reach-Avoid Differential Games in 3D Space</title>
-      <link>https://dcasbeer.github.io/publication/garcia-optimal-2020-1/</link>
+      <link>https://dcasbeer.github.io/publication/garcia-optimal-reachavoid-2020/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://dcasbeer.github.io/publication/garcia-optimal-2020-1/</guid>
+      <guid>https://dcasbeer.github.io/publication/garcia-optimal-reachavoid-2020/</guid>
       <description></description>
     </item>
     
@@ -54,9 +46,9 @@
     
     <item>
       <title>Optimal Strategies of the Differential Game in a Circular Region</title>
-      <link>https://dcasbeer.github.io/publication/garcia-optimal-2020/</link>
+      <link>https://dcasbeer.github.io/publication/garcia-optimaldg-circularregion-2020/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://dcasbeer.github.io/publication/garcia-optimal-2020/</guid>
+      <guid>https://dcasbeer.github.io/publication/garcia-optimaldg-circularregion-2020/</guid>
       <description></description>
     </item>
     
@@ -126,9 +118,9 @@
     
     <item>
       <title>Optimal UAV Route Planning for Persistent Monitoring Missions</title>
-      <link>https://dcasbeer.github.io/publication/hari-optimal-2020/</link>
+      <link>https://dcasbeer.github.io/publication/hari-pisr-optimal-route-planning-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://dcasbeer.github.io/publication/hari-optimal-2020/</guid>
+      <guid>https://dcasbeer.github.io/publication/hari-pisr-optimal-route-planning-2020/</guid>
       <description></description>
     </item>
     
@@ -158,9 +150,9 @@
     
     <item>
       <title>Pursuit in the Presence of a Defender</title>
-      <link>https://dcasbeer.github.io/publication/garcia-pursuit-2019/</link>
+      <link>https://dcasbeer.github.io/publication/garcia-pursuit-w-defender-2019/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://dcasbeer.github.io/publication/garcia-pursuit-2019/</guid>
+      <guid>https://dcasbeer.github.io/publication/garcia-pursuit-w-defender-2019/</guid>
       <description></description>
     </item>
     
@@ -198,9 +190,9 @@
     
     <item>
       <title>Cooperative Missile Guidance for Active Defense of Air Vehicles</title>
-      <link>https://dcasbeer.github.io/publication/garcia-cooperative-2018/</link>
+      <link>https://dcasbeer.github.io/publication/garcia-cooperative-missile-guidance-2018/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://dcasbeer.github.io/publication/garcia-cooperative-2018/</guid>
+      <guid>https://dcasbeer.github.io/publication/garcia-cooperative-missile-guidance-2018/</guid>
       <description></description>
     </item>
     
@@ -246,33 +238,33 @@
     
     <item>
       <title>Differential Game of Guarding a Target</title>
-      <link>https://dcasbeer.github.io/publication/pachter-differential-2017/</link>
+      <link>https://dcasbeer.github.io/publication/pachter-dg-guarding-a-target-2017/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://dcasbeer.github.io/publication/pachter-differential-2017/</guid>
+      <guid>https://dcasbeer.github.io/publication/pachter-dg-guarding-a-target-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Active target defense using first order missile models</title>
-      <link>https://dcasbeer.github.io/publication/garcia-active-2017-1/</link>
+      <link>https://dcasbeer.github.io/publication/garcia-active-1storder-2017/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://dcasbeer.github.io/publication/garcia-active-2017-1/</guid>
+      <guid>https://dcasbeer.github.io/publication/garcia-active-1storder-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Active target defence differential game: fast defender case</title>
-      <link>https://dcasbeer.github.io/publication/garcia-active-2017/</link>
+      <link>https://dcasbeer.github.io/publication/garcia-active-fast-defender-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://dcasbeer.github.io/publication/garcia-active-2017/</guid>
+      <guid>https://dcasbeer.github.io/publication/garcia-active-fast-defender-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coordinate frame free Dubins vehicle circumnavigation using only range-based measurements</title>
-      <link>https://dcasbeer.github.io/publication/milutinovic-coordinate-2017/</link>
+      <link>https://dcasbeer.github.io/publication/milutinovic-range-based-circumnavigation-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://dcasbeer.github.io/publication/milutinovic-coordinate-2017/</guid>
+      <guid>https://dcasbeer.github.io/publication/milutinovic-range-based-circumnavigation-2017/</guid>
       <description></description>
     </item>
     
@@ -294,9 +286,9 @@
     
     <item>
       <title>Periodic Event-Triggered Synchronization of Linear Multi-Agent Systems With Communication Delays</title>
-      <link>https://dcasbeer.github.io/publication/garcia-periodic-2017/</link>
+      <link>https://dcasbeer.github.io/publication/garcia-periodic-et-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://dcasbeer.github.io/publication/garcia-periodic-2017/</guid>
+      <guid>https://dcasbeer.github.io/publication/garcia-periodic-et-2017/</guid>
       <description></description>
     </item>
     
@@ -310,9 +302,9 @@
     
     <item>
       <title>Pursuit of a moving target with bounded speed on a directed acyclic graph under partial information</title>
-      <link>https://dcasbeer.github.io/publication/kalyanam-pursuit-2016/</link>
+      <link>https://dcasbeer.github.io/publication/kalyanam-pursuit-bounded-speed-2016/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://dcasbeer.github.io/publication/kalyanam-pursuit-2016/</guid>
+      <guid>https://dcasbeer.github.io/publication/kalyanam-pursuit-bounded-speed-2016/</guid>
       <description></description>
     </item>
     
@@ -326,33 +318,33 @@
     
     <item>
       <title>Decentralised event-triggered consensus of double integrator multi-agent systems with packet losses and communication delays</title>
-      <link>https://dcasbeer.github.io/publication/garcia-decentralised-2016/</link>
+      <link>https://dcasbeer.github.io/publication/garcia-decentralised-et-2ndint-packetloss-commdelay-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://dcasbeer.github.io/publication/garcia-decentralised-2016/</guid>
+      <guid>https://dcasbeer.github.io/publication/garcia-decentralised-et-2ndint-packetloss-commdelay-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pursuit of a Moving Target with Known Constant Speed on a Directed Acyclic Graph under Partial Information</title>
-      <link>https://dcasbeer.github.io/publication/kalyanam-pursuit-2016-1/</link>
+      <link>https://dcasbeer.github.io/publication/kalyanam-pursuit-constant-speed-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://dcasbeer.github.io/publication/kalyanam-pursuit-2016-1/</guid>
+      <guid>https://dcasbeer.github.io/publication/kalyanam-pursuit-constant-speed-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cooperative Task Allocation for Unmanned Vehicles with Communication Delays and Conflict Resolution</title>
-      <link>https://dcasbeer.github.io/publication/garcia-cooperative-2015/</link>
+      <link>https://dcasbeer.github.io/publication/garcia-cooperative-ta-2015/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://dcasbeer.github.io/publication/garcia-cooperative-2015/</guid>
+      <guid>https://dcasbeer.github.io/publication/garcia-cooperative-ta-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cooperative Strategies for Optimal Aircraft Defense from an Attacking Missile</title>
-      <link>https://dcasbeer.github.io/publication/garcia-cooperative-2015-1/</link>
+      <link>https://dcasbeer.github.io/publication/garcia-cooperative-opt-def-attack-missile-2015/</link>
       <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>https://dcasbeer.github.io/publication/garcia-cooperative-2015-1/</guid>
+      <guid>https://dcasbeer.github.io/publication/garcia-cooperative-opt-def-attack-missile-2015/</guid>
       <description></description>
     </item>
     
@@ -374,9 +366,9 @@
     
     <item>
       <title>Decentralized event-triggered consensus with general linear dynamics</title>
-      <link>https://dcasbeer.github.io/publication/garcia-decentralized-2014/</link>
+      <link>https://dcasbeer.github.io/publication/garcia-decentralized-et-lineardyn-2014/</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://dcasbeer.github.io/publication/garcia-decentralized-2014/</guid>
+      <guid>https://dcasbeer.github.io/publication/garcia-decentralized-et-lineardyn-2014/</guid>
       <description></description>
     </item>
     
@@ -398,29 +390,10 @@
     
     <item>
       <title>Decentralised event-triggered cooperative control with limited communication</title>
-      <link>https://dcasbeer.github.io/publication/garcia-decentralised-2013/</link>
+      <link>https://dcasbeer.github.io/publication/garcia-decentralised-et-limited-comm-2013/</link>
       <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>https://dcasbeer.github.io/publication/garcia-decentralised-2013/</guid>
+      <guid>https://dcasbeer.github.io/publication/garcia-decentralised-et-limited-comm-2013/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>https://dcasbeer.github.io/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://dcasbeer.github.io/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -440,10 +413,26 @@
     </item>
     
     <item>
+      <title>Adaptive Mobile Sensor Positioning for Multi-Static Target Tracking</title>
+      <link>https://dcasbeer.github.io/publication/zhan-adaptive-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://dcasbeer.github.io/publication/zhan-adaptive-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cooperative forest fire surveillance using a team of small unmanned air vehicles</title>
       <link>https://dcasbeer.github.io/publication/casbeer-cooperative-2006/</link>
       <pubDate>Mon, 01 May 2006 00:00:00 +0000</pubDate>
       <guid>https://dcasbeer.github.io/publication/casbeer-cooperative-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-unmanned aerial vehicle multi acoustic source localization</title>
+      <link>https://dcasbeer.github.io/publication/manickam-multi-unmanned-2020/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:40 -0500</pubDate>
+      <guid>https://dcasbeer.github.io/publication/manickam-multi-unmanned-2020/</guid>
       <description></description>
     </item>
     

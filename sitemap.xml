@@ -19,47 +19,7 @@
   
   <url>
     <loc></loc>
-    <lastmod>2021-01-18T16:57:45-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dcasbeer.github.io/publication-type/2/</loc>
-    <lastmod>2021-01-18T16:57:45-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-01-18T16:57:44-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dcasbeer.github.io/publication/manickam-multi-unmanned-nodate/</loc>
-    <lastmod>2021-01-18T16:57:39-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dcasbeer.github.io/publication_types/</loc>
-    <lastmod>2021-01-18T16:57:45-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dcasbeer.github.io/publication/</loc>
-    <lastmod>2021-01-18T16:57:45-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-01-18T16:57:39-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-01-18T16:57:39-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-01-18T16:57:39-05:00</lastmod>
+    <lastmod>2021-01-18T23:40:21-05:00</lastmod>
   </url>
   
   <url>
@@ -94,7 +54,7 @@
   
   <url>
     <loc>https://dcasbeer.github.io/tag/computational-complexity/</loc>
-    <lastmod>2021-01-18T16:57:42-05:00</lastmod>
+    <lastmod>2021-01-18T23:40:21-05:00</lastmod>
   </url>
   
   <url>
@@ -209,7 +169,7 @@
   
   <url>
     <loc>https://dcasbeer.github.io/tag/unmanned-aerial-vehicles/</loc>
-    <lastmod>2021-01-18T16:57:42-05:00</lastmod>
+    <lastmod>2021-01-18T23:40:21-05:00</lastmod>
   </url>
   
   <url>
@@ -230,6 +190,11 @@
   <url>
     <loc>https://dcasbeer.github.io/tag/weighted-revisit-priorities/</loc>
     <lastmod>2021-01-18T16:57:40-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dcasbeer.github.io/publication-type/2/</loc>
+    <lastmod>2021-01-18T23:40:21-05:00</lastmod>
   </url>
   
   <url>
@@ -263,6 +228,16 @@
   </url>
   
   <url>
+    <loc>https://dcasbeer.github.io/publication_types/</loc>
+    <lastmod>2021-01-18T23:40:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dcasbeer.github.io/publication/</loc>
+    <lastmod>2021-01-18T23:40:21-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc></loc>
     <lastmod>2021-01-18T16:57:39-05:00</lastmod>
   </url>
@@ -279,7 +254,7 @@
   
   <url>
     <loc>https://dcasbeer.github.io/tags/</loc>
-    <lastmod>2021-01-18T16:57:45-05:00</lastmod>
+    <lastmod>2021-01-18T23:40:21-05:00</lastmod>
   </url>
   
   <url>
@@ -374,7 +349,7 @@
   
   <url>
     <loc></loc>
-    <lastmod>2021-01-18T16:57:38-05:00</lastmod>
+    <lastmod>2021-01-18T23:40:21-05:00</lastmod>
   </url>
   
   <url>
@@ -388,7 +363,7 @@
   </url>
   
   <url>
-    <loc>https://dcasbeer.github.io/publication/garcia-optimal-2020-1/</loc>
+    <loc>https://dcasbeer.github.io/publication/garcia-optimal-reachavoid-2020/</loc>
     <lastmod>2021-01-18T16:57:38-05:00</lastmod>
   </url>
   
@@ -453,7 +428,7 @@
   </url>
   
   <url>
-    <loc>https://dcasbeer.github.io/publication/garcia-optimal-2020/</loc>
+    <loc>https://dcasbeer.github.io/publication/garcia-optimaldg-circularregion-2020/</loc>
     <lastmod>2021-01-18T16:57:37-05:00</lastmod>
   </url>
   
@@ -465,6 +440,11 @@
   <url>
     <loc></loc>
     <lastmod>2021-01-18T16:57:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-18T16:57:44-05:00</lastmod>
   </url>
   
   <url>
@@ -510,6 +490,11 @@
   <url>
     <loc>https://dcasbeer.github.io/publication/von-moll-multiple-pursuer-2020/</loc>
     <lastmod>2021-01-18T16:57:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-18T16:57:39-05:00</lastmod>
   </url>
   
   <url>
@@ -609,7 +594,7 @@
   
   <url>
     <loc>https://dcasbeer.github.io/tag/monitoring/</loc>
-    <lastmod>2021-01-18T16:57:40-05:00</lastmod>
+    <lastmod>2021-01-18T23:40:21-05:00</lastmod>
   </url>
   
   <url>
@@ -753,7 +738,7 @@
   </url>
   
   <url>
-    <loc>https://dcasbeer.github.io/publication/hari-optimal-2020/</loc>
+    <loc>https://dcasbeer.github.io/publication/hari-pisr-optimal-route-planning-2020/</loc>
     <lastmod>2021-01-18T16:57:40-05:00</lastmod>
   </url>
   
@@ -823,7 +808,7 @@
   </url>
   
   <url>
-    <loc>https://dcasbeer.github.io/publication/garcia-pursuit-2019/</loc>
+    <loc>https://dcasbeer.github.io/publication/garcia-pursuit-w-defender-2019/</loc>
     <lastmod>2021-01-18T16:57:40-05:00</lastmod>
   </url>
   
@@ -983,7 +968,7 @@
   </url>
   
   <url>
-    <loc>https://dcasbeer.github.io/publication/garcia-cooperative-2018/</loc>
+    <loc>https://dcasbeer.github.io/publication/garcia-cooperative-missile-guidance-2018/</loc>
     <lastmod>2021-01-18T16:57:37-05:00</lastmod>
   </url>
   
@@ -1038,12 +1023,12 @@
   </url>
   
   <url>
-    <loc>https://dcasbeer.github.io/publication/pachter-differential-2017/</loc>
+    <loc>https://dcasbeer.github.io/publication/pachter-dg-guarding-a-target-2017/</loc>
     <lastmod>2021-01-18T16:57:42-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dcasbeer.github.io/publication/garcia-active-2017-1/</loc>
+    <loc>https://dcasbeer.github.io/publication/garcia-active-1storder-2017/</loc>
     <lastmod>2021-01-18T16:57:42-05:00</lastmod>
   </url>
   
@@ -1378,12 +1363,12 @@
   </url>
   
   <url>
-    <loc>https://dcasbeer.github.io/publication/garcia-active-2017/</loc>
+    <loc>https://dcasbeer.github.io/publication/garcia-active-fast-defender-2017/</loc>
     <lastmod>2021-01-18T16:57:42-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dcasbeer.github.io/publication/milutinovic-coordinate-2017/</loc>
+    <loc>https://dcasbeer.github.io/publication/milutinovic-range-based-circumnavigation-2017/</loc>
     <lastmod>2021-01-18T16:57:37-05:00</lastmod>
   </url>
   
@@ -1403,7 +1388,7 @@
   </url>
   
   <url>
-    <loc>https://dcasbeer.github.io/publication/garcia-periodic-2017/</loc>
+    <loc>https://dcasbeer.github.io/publication/garcia-periodic-et-2017/</loc>
     <lastmod>2021-01-18T16:57:37-05:00</lastmod>
   </url>
   
@@ -1428,7 +1413,7 @@
   </url>
   
   <url>
-    <loc>https://dcasbeer.github.io/publication/kalyanam-pursuit-2016/</loc>
+    <loc>https://dcasbeer.github.io/publication/kalyanam-pursuit-bounded-speed-2016/</loc>
     <lastmod>2021-01-18T16:57:43-05:00</lastmod>
   </url>
   
@@ -1663,22 +1648,22 @@
   </url>
   
   <url>
-    <loc>https://dcasbeer.github.io/publication/garcia-decentralised-2016/</loc>
+    <loc>https://dcasbeer.github.io/publication/garcia-decentralised-et-2ndint-packetloss-commdelay-2016/</loc>
     <lastmod>2021-01-18T16:57:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dcasbeer.github.io/publication/kalyanam-pursuit-2016-1/</loc>
+    <loc>https://dcasbeer.github.io/publication/kalyanam-pursuit-constant-speed-2016/</loc>
     <lastmod>2021-01-18T16:57:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dcasbeer.github.io/publication/garcia-cooperative-2015/</loc>
+    <loc>https://dcasbeer.github.io/publication/garcia-cooperative-ta-2015/</loc>
     <lastmod>2021-01-18T16:57:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dcasbeer.github.io/publication/garcia-cooperative-2015-1/</loc>
+    <loc>https://dcasbeer.github.io/publication/garcia-cooperative-opt-def-attack-missile-2015/</loc>
     <lastmod>2021-01-18T16:57:43-05:00</lastmod>
   </url>
   
@@ -1718,7 +1703,7 @@
   </url>
   
   <url>
-    <loc>https://dcasbeer.github.io/publication/garcia-decentralized-2014/</loc>
+    <loc>https://dcasbeer.github.io/publication/garcia-decentralized-et-lineardyn-2014/</loc>
     <lastmod>2021-01-18T16:57:44-05:00</lastmod>
   </url>
   
@@ -1743,7 +1728,7 @@
   </url>
   
   <url>
-    <loc>https://dcasbeer.github.io/publication/garcia-decentralised-2013/</loc>
+    <loc>https://dcasbeer.github.io/publication/garcia-decentralised-et-limited-comm-2013/</loc>
     <lastmod>2021-01-18T16:57:44-05:00</lastmod>
   </url>
   
@@ -1755,21 +1740,6 @@
   <url>
     <loc></loc>
     <lastmod>2021-01-18T16:57:44-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dcasbeer.github.io/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dcasbeer.github.io/publication/example/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1808,12 +1778,107 @@
   </url>
   
   <url>
-    <loc>https://dcasbeer.github.io/tag/forest-fire/</loc>
-    <lastmod>2021-01-18T16:57:44-05:00</lastmod>
+    <loc>https://dcasbeer.github.io/tag/adaptive-mobile-sensor-positioning/</loc>
+    <lastmod>2021-01-18T23:40:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dcasbeer.github.io/tag/civilian-applications/</loc>
+    <lastmod>2021-01-18T23:40:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dcasbeer.github.io/tag/doppler-measurements/</loc>
+    <lastmod>2021-01-18T23:40:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dcasbeer.github.io/tag/extended-kalman-filter/</loc>
+    <lastmod>2021-01-18T23:40:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dcasbeer.github.io/tag/feedback/</loc>
+    <lastmod>2021-01-18T23:40:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dcasbeer.github.io/tag/kalman-filters/</loc>
+    <lastmod>2021-01-18T23:40:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dcasbeer.github.io/tag/laser-radar/</loc>
+    <lastmod>2021-01-18T23:40:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dcasbeer.github.io/tag/military-applications/</loc>
+    <lastmod>2021-01-18T23:40:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dcasbeer.github.io/tag/multi-static-target-tracking/</loc>
+    <lastmod>2021-01-18T23:40:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dcasbeer.github.io/tag/radar-tracking/</loc>
+    <lastmod>2021-01-18T23:40:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dcasbeer.github.io/tag/remotely-operated-vehicles/</loc>
+    <lastmod>2021-01-18T23:40:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dcasbeer.github.io/tag/sensor-arrays/</loc>
+    <lastmod>2021-01-18T23:40:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dcasbeer.github.io/tag/sensor-placement/</loc>
+    <lastmod>2021-01-18T23:40:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dcasbeer.github.io/tag/target-tracking/</loc>
+    <lastmod>2021-01-18T23:40:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dcasbeer.github.io/tag/uav-sensors/</loc>
+    <lastmod>2021-01-18T23:40:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dcasbeer.github.io/tag/underwater-tracking/</loc>
+    <lastmod>2021-01-18T23:40:21-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://dcasbeer.github.io/tag/unmanned-air-vehicles/</loc>
+    <lastmod>2021-01-18T23:40:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-18T23:40:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dcasbeer.github.io/publication/zhan-adaptive-2010/</loc>
+    <lastmod>2021-01-18T23:40:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-18T23:40:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dcasbeer.github.io/tag/forest-fire/</loc>
     <lastmod>2021-01-18T16:57:44-05:00</lastmod>
   </url>
   
@@ -1835,6 +1900,21 @@
   <url>
     <loc></loc>
     <lastmod>2021-01-18T16:57:44-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dcasbeer.github.io/publication/manickam-multi-unmanned-2020/</loc>
+    <lastmod>2021-01-18T16:57:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-18T16:57:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-18T16:57:39-05:00</lastmod>
   </url>
   
 </urlset>
