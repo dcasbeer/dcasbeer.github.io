@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;reconnaissance mission&#34; | David W. Casbeer</title>
+    <link>https://dcasbeer.github.io/tag/reconnaissance-mission/</link>
+      <atom:link href="https://dcasbeer.github.io/tag/reconnaissance-mission/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;reconnaissance mission&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 David W. Casbeer</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dcasbeer.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;reconnaissance mission&#34;</title>
+      <link>https://dcasbeer.github.io/tag/reconnaissance-mission/</link>
+    </image>
+    
+    <item>
+      <title>Cooperative Routing for an Air–Ground Vehicle Team—Exact Algorithm, Transformation Method, and Heuristics</title>
+      <link>https://dcasbeer.github.io/publication/manyam-cooperative-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://dcasbeer.github.io/publication/manyam-cooperative-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

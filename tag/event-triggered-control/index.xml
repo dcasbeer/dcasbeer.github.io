@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;event-triggered control&#34; | David W. Casbeer</title>
+    <link>https://dcasbeer.github.io/tag/event-triggered-control/</link>
+      <atom:link href="https://dcasbeer.github.io/tag/event-triggered-control/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;event-triggered control&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 David W. Casbeer</copyright><lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dcasbeer.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;event-triggered control&#34;</title>
+      <link>https://dcasbeer.github.io/tag/event-triggered-control/</link>
+    </image>
+    
+    <item>
+      <title>An event-triggered control approach for the leader-tracking problem with heterogeneous agents</title>
+      <link>https://dcasbeer.github.io/publication/garcia-event-triggered-2018/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://dcasbeer.github.io/publication/garcia-event-triggered-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Periodic Event-Triggered Synchronization of Linear Multi-Agent Systems With Communication Delays</title>
+      <link>https://dcasbeer.github.io/publication/garcia-periodic-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://dcasbeer.github.io/publication/garcia-periodic-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decentralised event-triggered cooperative control with limited communication</title>
+      <link>https://dcasbeer.github.io/publication/garcia-decentralised-2013/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://dcasbeer.github.io/publication/garcia-decentralised-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
