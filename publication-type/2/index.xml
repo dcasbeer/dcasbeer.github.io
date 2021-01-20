@@ -5,12 +5,20 @@
     <link>https://dcasbeer.github.io/publication-type/2/</link>
       <atom:link href="https://dcasbeer.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 David W. Casbeer</copyright><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 David W. Casbeer</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dcasbeer.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
       <link>https://dcasbeer.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>UAV Trajectory Planning with Probabilistic Geo-Fence via Iterative Chance-Constrained Optimization</title>
+      <link>https://dcasbeer.github.io/publication/du-uav-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://dcasbeer.github.io/publication/du-uav-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Persistent Intelligence, Surveillance, and Reconnaissance Using Multiple Autonomous Vehicles With Asynchronous Route Updates</title>
@@ -129,14 +137,6 @@
       <link>https://dcasbeer.github.io/publication/garcia-complete-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://dcasbeer.github.io/publication/garcia-complete-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UAV Trajectory Planning with Probabilistic Geo-Fence via Iterative Chance-Constrained Optimization</title>
-      <link>https://dcasbeer.github.io/publication/du-uav-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://dcasbeer.github.io/publication/du-uav-2020/</guid>
       <description></description>
     </item>
     
