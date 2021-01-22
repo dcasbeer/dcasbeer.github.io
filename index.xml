@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>The Complete Differential Game of Active Target Defense</title>
+      <link>https://dcasbeer.github.io/publication/garcia-complete-2020/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://dcasbeer.github.io/publication/garcia-complete-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>UAV Trajectory Planning with Probabilistic Geo-Fence via Iterative Chance-Constrained Optimization</title>
       <link>https://dcasbeer.github.io/publication/du-uav-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -61,6 +69,14 @@
       <link>https://dcasbeer.github.io/publication/garcia-optimal-reachavoid-2020/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://dcasbeer.github.io/publication/garcia-optimal-reachavoid-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-unmanned aerial vehicle multi acoustic source localization</title>
+      <link>https://dcasbeer.github.io/publication/manickam-multi-unmanned-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://dcasbeer.github.io/publication/manickam-multi-unmanned-2020/</guid>
       <description></description>
     </item>
     
@@ -149,14 +165,6 @@
       <link>https://dcasbeer.github.io/publication/hari-pisr-optimal-route-planning-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://dcasbeer.github.io/publication/hari-pisr-optimal-route-planning-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Complete Differential Game of Active Target Defense</title>
-      <link>https://dcasbeer.github.io/publication/garcia-complete-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://dcasbeer.github.io/publication/garcia-complete-2020/</guid>
       <description></description>
     </item>
     
@@ -418,10 +426,34 @@ Three
     </item>
     
     <item>
+      <title>Cooperative control of multi-agent systems: Theory and applications</title>
+      <link>https://dcasbeer.github.io/publication/wang-cooperative-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://dcasbeer.github.io/publication/wang-cooperative-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Coordinate frame free Dubins vehicle circumnavigation using only range-based measurements</title>
       <link>https://dcasbeer.github.io/publication/milutinovic-range-based-circumnavigation-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://dcasbeer.github.io/publication/milutinovic-range-based-circumnavigation-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coordinated Threat Assignments and Mission Management of Unmanned Aerial Vehicles</title>
+      <link>https://dcasbeer.github.io/publication/garcia-coordinated-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://dcasbeer.github.io/publication/garcia-coordinated-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed multi-agent coordination with uncertain interactions: A probabilistic perspective</title>
+      <link>https://dcasbeer.github.io/publication/cao-distributed-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://dcasbeer.github.io/publication/cao-distributed-2017/</guid>
       <description></description>
     </item>
     
@@ -446,6 +478,14 @@ Three
       <link>https://dcasbeer.github.io/publication/garcia-periodic-et-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://dcasbeer.github.io/publication/garcia-periodic-et-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projection-Based Consensus for Time-Critical Coordination of Unmanned Aerial Vehicles under Velocity Constraints</title>
+      <link>https://dcasbeer.github.io/publication/wang-projection-based-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://dcasbeer.github.io/publication/wang-projection-based-2017/</guid>
       <description></description>
     </item>
     
@@ -653,6 +693,14 @@ Three
     </item>
     
     <item>
+      <title>Multi-team Consensus Bundle Algorithm</title>
+      <link>https://dcasbeer.github.io/publication/argyle-multi-team-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://dcasbeer.github.io/publication/argyle-multi-team-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Decentralised event-triggered cooperative control with limited communication</title>
       <link>https://dcasbeer.github.io/publication/garcia-decentralised-et-limited-comm-2013/</link>
       <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
@@ -665,6 +713,14 @@ Three
       <link>https://dcasbeer.github.io/publication/yin-asymptotic-2013/</link>
       <pubDate>Fri, 01 Feb 2013 00:00:00 +0000</pubDate>
       <guid>https://dcasbeer.github.io/publication/yin-asymptotic-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-Based Event-Triggered Multi-Vehicle Coordinated Tracking with Communication Delays</title>
+      <link>https://dcasbeer.github.io/publication/garcia-model-based-2013/</link>
+      <pubDate>Fri, 01 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>https://dcasbeer.github.io/publication/garcia-model-based-2013/</guid>
       <description></description>
     </item>
     
@@ -685,18 +741,18 @@ Three
     </item>
     
     <item>
-      <title>Cooperative forest fire surveillance using a team of small unmanned air vehicles</title>
-      <link>https://dcasbeer.github.io/publication/casbeer-cooperative-2006/</link>
-      <pubDate>Mon, 01 May 2006 00:00:00 +0000</pubDate>
-      <guid>https://dcasbeer.github.io/publication/casbeer-cooperative-2006/</guid>
+      <title>Decentralized estimation using information consensus filters with a multi-static UAV radar tracking system</title>
+      <link>https://dcasbeer.github.io/publication/casbeer-decentralized-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://dcasbeer.github.io/publication/casbeer-decentralized-2009/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Multi-unmanned aerial vehicle multi acoustic source localization</title>
-      <link>https://dcasbeer.github.io/publication/manickam-multi-unmanned-2020/</link>
-      <pubDate>Wed, 31 Dec 1969 19:33:40 -0500</pubDate>
-      <guid>https://dcasbeer.github.io/publication/manickam-multi-unmanned-2020/</guid>
+      <title>Cooperative forest fire surveillance using a team of small unmanned air vehicles</title>
+      <link>https://dcasbeer.github.io/publication/casbeer-cooperative-2006/</link>
+      <pubDate>Mon, 01 May 2006 00:00:00 +0000</pubDate>
+      <guid>https://dcasbeer.github.io/publication/casbeer-cooperative-2006/</guid>
       <description></description>
     </item>
     
